@@ -5,7 +5,7 @@ React Unsplash Clone: A React application allowing users to search images by typ
 
 ## Screenshots - 
 
-![Uploading Screenshot 2023-09-21 at 1.42.48 AM.png…]()
+<img width="1385" alt="Screenshot 2023-09-21 at 12 15 03 PM" src="https://github.com/praduman20/Unsplash-Clone-React-mini-project-6/assets/87388316/1850b993-9d5e-439d-8256-ea4f8ae4aed3">
 
 ## Setup Instructions -
 
