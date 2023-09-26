@@ -1,5 +1,5 @@
 # React mini project 6 - Unsplash Clone
-React Unsplash Clone: A React application allowing users to search images by typing keywords into a search input, providing a experience similar to Unsplash. Concepts used - Fetch and Display Data from API, keydown event and useState hook.
+Unsplash Clone: A React application allowing users to search images by typing keywords into a search input, providing a experience similar to Unsplash. Concepts used - Fetch and Display Data from API, keydown event and useState hook.
 
 ## Demo Link - https://unsplash-clone-1.netlify.app/
 
